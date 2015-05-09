@@ -1,0 +1,218 @@
+input[type="text"],input[type="password"],input[type="email"] 
+
+{
+
+	opacity:0.6;
+
+	width:219px;
+
+	font-family:inherit;
+
+	font-weight:600;
+
+}
+input[type="text"]:not(#forgotpassword),input[type="password"],input[type="email"] 
+{
+	border:0px;
+}
+
+select
+
+{
+
+	opacity:0.6;
+
+	font-family:inherit;
+
+	font-weight:600;
+
+}
+
+#signup_form
+
+{
+
+	margin-left:50px;
+
+}
+
+table
+
+{
+
+	top:100px;
+	line-height:0em;
+
+}
+
+td
+
+{
+
+	padding-bottom: 2em;
+
+}
+
+.control-group
+
+{
+
+	margin-bottom: -21px;
+
+}
+
+#heading
+
+{
+
+	font-size:48px;
+
+	font-weight:500;
+
+	font-family: 'Quicksand', sans-serif;
+
+	color:white;
+
+}
+
+input:hover,select:hover,input:focus,select:focus
+
+{
+
+	opacity:1;
+
+}
+
+body
+
+{
+
+	color:#ffffff;
+
+	background-color:#76d7af;
+
+	background-size:100%;
+
+	background-repeat: no-repeat;
+
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+label
+
+{
+
+    
+
+	opacity:0.8;
+
+	text-transform:uppercase;
+
+	font-weight:400;
+
+	font-size: 15px;
+
+	/*font-family: 'Quicksand', sans-serif;*/
+
+	font-family:"Trebuchet MS", Helvetica, sans-serif
+
+}
+
+.sgli
+
+{
+
+	position:absolute;
+
+	right:7%;
+
+	top:26%;
+
+}
+
+#sgin
+
+{
+
+	font-size:25px;
+
+	font-weight:400;
+
+	font-family: 'Quicksand', sans-serif;
+
+	color:white;
+
+}
+
+#error
+
+{
+
+	font-family: 'Quicksand', sans-serif;
+
+	position:absolute;
+
+	left:-369%;
+
+	top:9%;
+
+}
+
+.login_error
+
+{
+
+	position:absolute;
+
+	z-index:1001;
+
+	top:15%;
+
+}
+
+#motto
+
+{
+
+ font-size: 24px;
+
+ font-family: 'Quicksand', sans-serif;
+
+ position:absolute;
+
+ left:38%;
+
+ top:20%;
+
+}
+
+.btn
+
+{
+
+	position:absolute;
+
+	right:7%;
+
+	top:65%;
+
+}
+
+.modal-content
+{
+	background: #fff;
+	font-color:black;
+	font-style:Arial;
+}
+.control-label
+{
+	font-weight:400;
+}
+/*.controls
+
+{
+
+	margin-bottom: -29px;
+
+}*/
